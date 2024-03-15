@@ -1,0 +1,21 @@
+header .navigation .basket-icon {
+    margin-right: 30px;
+    position: relative;
+  }
+  
+  header .navigation .basket-icon i {
+    font-size: 25px;
+    color: red;
+  }
+  
+  header .navigation .basket-icon span {
+    position: absolute;
+    top: -15px;
+    color: red;
+  }
+
+  .delete-icon{
+    font-size: 25px;
+    color: red;
+    cursor: pointer;
+  }
